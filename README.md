@@ -7,7 +7,7 @@ Vice Leader @ Google Developer Groups On Campus – AASTMT Aswan
 
 ## 🚀 What I Build
 - **CV Cracker** — CV website creator with a **100% ATS score**  
-  https://cv-cracker-frontend.vercel.app/
+  https://cvcrack.vercel.app/
 - **OMR Server** — Flask-based Optical Mark Recognition system returning annotated images and structured JSON
 - **Student Applications** — Flutter mobile apps (chat assistant with Egyptian Arabic support, quiz generator)
 - **Data & ML Pipelines** — data cleaning, EDA, NLP fine-tuning, and deployment
